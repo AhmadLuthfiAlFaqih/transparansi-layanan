@@ -1,0 +1,111 @@
+{
+  "reports": [
+    {
+      "id": "TL-1A2B3C",
+      "title": "Pungutan liar pengurusan KTP",
+      "category": "Pungli",
+      "agency": "Disdukcapil",
+      "location": "Kec. Wonokromo, Surabaya",
+      "description": "Petugas loket meminta biaya tambahan Rp150.000 untuk percepatan KTP-el.",
+      "status": "proses",
+      "createdAt": "2026-10-28T03:10:00.000Z",
+      "timeline": [
+        {
+          "status": "baru",
+          "note": "Laporan diterima sistem.",
+          "at": "2026-10-28T03:10:00.000Z"
+        },
+        {
+          "status": "proses",
+          "note": "Inspektorat memanggil petugas terkait.",
+          "at": "2026-11-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TL-4D5E6F",
+      "title": "Jalan berlubang di Jl. Raya Darmo",
+      "category": "Infrastruktur",
+      "agency": "Dinas PU Bina Marga",
+      "location": "Darmo, Surabaya",
+      "description": "Lubang sedalam 15 cm membahayakan pengendara motor, sudah dua minggu.",
+      "status": "selesai",
+      "createdAt": "2026-10-15T01:00:00.000Z",
+      "timeline": [
+        {
+          "status": "baru",
+          "note": "Laporan diterima sistem.",
+          "at": "2026-10-15T01:00:00.000Z"
+        },
+        {
+          "status": "selesai",
+          "note": "Perbaikan aspal selesai dikerjakan.",
+          "at": "2026-10-20T09:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TL-7G8H9I",
+      "title": "Antrean puskesmas tanpa sistem nomor",
+      "category": "Pelayanan Kesehatan",
+      "agency": "Dinas Kesehatan",
+      "location": "Puskesmas Tambaksari",
+      "description": "Pasien menunggu lebih dari 3 jam tanpa kejelasan urutan antrean.",
+      "status": "baru",
+      "createdAt": "2026-11-10T02:20:00.000Z",
+      "timeline": [
+        {
+          "status": "baru",
+          "note": "Laporan diterima sistem.",
+          "at": "2026-11-10T02:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TL-0E18EE",
+      "title": "tiang listrik yang terlalu tengah",
+      "category": "Infrastruktur",
+      "agency": "Belum ditentukan",
+      "location": "kalijudan",
+      "description": "tiang yang berada di tenag jalan raya setelah dilakukan pelebaran jalan yang membahayakan pengguna jalan dan warga di sekitar",
+      "status": "baru",
+      "createdAt": "2026-11-12T07:33:59.787Z",
+      "timeline": [
+        {
+          "status": "baru",
+          "note": "Laporan diterima sistem.",
+          "at": "2026-11-12T07:33:59.787Z"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "PRJ-01",
+      "name": "Rehabilitasi Jalan Arteri Utara",
+      "agency": "Dinas PU Bina Marga",
+      "budget": 12500000000,
+      "spent": 8200000000,
+      "progress": 68,
+      "updatedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "id": "PRJ-02",
+      "name": "Digitalisasi Antrean Puskesmas",
+      "agency": "Dinas Kesehatan",
+      "budget": 3400000000,
+      "spent": 3100000000,
+      "progress": 41,
+      "updatedAt": "2026-11-08T00:00:00.000Z"
+    },
+    {
+      "id": "PRJ-03",
+      "name": "Pembangunan Ruang Hijau Kota",
+      "agency": "Dinas Lingkungan Hidup",
+      "budget": 6800000000,
+      "spent": 1900000000,
+      "progress": 30,
+      "updatedAt": "2026-11-01T00:00:00.000Z"
+    }
+  ]
+}
